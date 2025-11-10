@@ -7,4 +7,4 @@ Me gusta desarrollar aplicaciones web con Python (Django) y darles estilo con Bo
 🔹 Actualmente estoy aprendiendo React y Node.js para mejorar mis habilidades Full-Stack.
 🔹 A futuro quiero especializarme en Inteligencia Artificial.
 
-🎯 Busco oportunidades de prácticas o empleo junior donde pueda aplicar mis conocimientos, aprender de proyectos reales y seguir creciendo como desarrollador.
+Busco oportunidades de prácticas o empleo junior donde pueda aplicar mis conocimientos, aprender de proyectos reales y seguir creciendo como desarrollador.
